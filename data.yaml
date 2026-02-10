@@ -1,6 +1,6 @@
-path: C:/Users/Denis/Desktop/gandalf_yolo_dataset
+path: .
 train: train/images
 val: val/images
 
-nc: 12
-names: ['gandalf grey', 'gandalf gray', 'gandalf_grey', 'gandalf_gray', 'Gandalf grey', 'Gandalf gray', 'Gandalf_grey', 'Gandalf_gray', 'gandalf white', 'gandalf_white', 'Gandalf white', 'Gandalf_white']
+nc: 2
+names: ['gandalf_grey', 'gandalf_white']
