@@ -28,9 +28,9 @@ model('/content/ваше_фото.jpg')[0].show()
 ```
 
 ## Результаты
-```
+
 https://github.com/TorValum/gandalf-detector/tree/main/results
-```
+
 
 ## Структура проекта
 ```
