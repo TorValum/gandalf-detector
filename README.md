@@ -28,18 +28,24 @@ model('/content/ваше_фото.jpg')[0].show()
 ```
 
 ## Результаты
+```
 https://github.com/TorValum/gandalf-detector/tree/main/results
+```
 
 ##Структура проекта
+```
 gandalf-detector/
 ├── data.yaml              # Конфигурация датасета
 ├── train/                 # Обучающие данные
 ├── val/                   # Валидационные данные
 ├── results/               # Скриншоты результатов
 └── README.md              # Этот файл
+```
 
 ##Технологии
+```
 • YOLOv8 (Ultralytics)
 • Google Colab (обучение на T4 GPU)
 • VGG Image Annotator (разметка)
 • GitHub (хранение кода и данных)
+```
