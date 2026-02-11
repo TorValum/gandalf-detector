@@ -42,10 +42,10 @@ gandalf-detector/
 └── README.md              # Этот файл
 ```
 
-## Технологии
-```
+ Технологии
+
 - **YOLOv8** (Ultralytics)
 - **Google Colab** (обучение на T4 GPU)
 - **VGG Image Annotator** (разметка)
 - **GitHub** (хранение кода и данных)
-```
+
