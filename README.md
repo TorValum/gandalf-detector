@@ -44,8 +44,8 @@ gandalf-detector/
 
 ## Технологии
 ```
-• **YOLOv8** (Ultralytics)
-• **Google Colab** (обучение на T4 GPU)
-• **VGG Image Annotator** (разметка)
-• **GitHub** (хранение кода и данных)
+- **YOLOv8** (Ultralytics)
+- **Google Colab** (обучение на T4 GPU)
+- **VGG Image Annotator** (разметка)
+- **GitHub** (хранение кода и данных)
 ```
