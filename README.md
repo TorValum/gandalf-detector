@@ -32,7 +32,7 @@ model('/content/ваше_фото.jpg')[0].show()
 https://github.com/TorValum/gandalf-detector/tree/main/results
 ```
 
-##Структура проекта
+## Структура проекта
 ```
 gandalf-detector/
 ├── data.yaml              # Конфигурация датасета
@@ -42,7 +42,7 @@ gandalf-detector/
 └── README.md              # Этот файл
 ```
 
-##Технологии
+## Технологии
 ```
 • YOLOv8 (Ultralytics)
 • Google Colab (обучение на T4 GPU)
