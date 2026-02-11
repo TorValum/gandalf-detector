@@ -19,11 +19,13 @@
 from ultralytics import YOLO
 model = YOLO('yolov8n.pt')
 model.train(data='data.yaml', epochs=30, device=0)
+```
 
 ### 2. Тестирование
 ```python
 model = YOLO('runs/detect/train/weights/best.pt')
 model('/content/ваше_фото.jpg')[0].show()
+```
 
 ## Результаты
 https://github.com/TorValum/gandalf-detector/tree/main/results
