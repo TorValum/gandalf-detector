@@ -33,14 +33,14 @@ https://github.com/TorValum/gandalf-detector/tree/main/results
 
 
 ## Структура проекта
-
+```
 gandalf-detector/
 ├── data.yaml              # Конфигурация датасета
 ├── train/                 # Обучающие данные
 ├── val/                   # Валидационные данные
 ├── results/               # Скриншоты результатов
 └── README.md              # Этот файл
-
+```
 
  Технологии
 
